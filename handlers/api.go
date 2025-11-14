@@ -132,7 +132,9 @@ func GetALLPost(w http.ResponseWriter, r *http.Request){
 
 
 func GetPostByID(){
-	
+
 }
 
+func DeletePOst(w http.ResponseWriter, r *http.Request){
 
+}
