@@ -131,6 +131,8 @@ func GetALLPost(w http.ResponseWriter, r *http.Request){
 }
 
 
-
+func GetPostByID(){
+	
+}
 
 
